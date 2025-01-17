@@ -43,6 +43,7 @@ Converta valores de Real (R$) para:
 * Temperatura: Clique no botão Converter. Um pop-up será aberto onde você deve inserir a temperatura em Celsius e clicar em OK. O resultado será exibido em Fahrenheit e Kelvin.
 * Moedas: Insira o valor em Real (R$) no campo correspondente, depois escolha o botão da moeda para a qual deseja converter (Dólar, Euro ou Yen).Um pop-up será aberto para você inserir a cotação atual da moeda escolhida, depois clique em OK para obter o valor convertido.
 
+## Pré-visualização
 
 ![Capa do Projeto](./images/conversor.jpg)
 ![utilização do Projeto](./images/conversor1.jpg)
