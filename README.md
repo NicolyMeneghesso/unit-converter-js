@@ -45,5 +45,4 @@ Converta valores de Real (R$) para:
 
 ## Pré-visualização
 
-![Capa do Projeto](./images/conversor.jpg)
-![utilização do Projeto](./images/conversor1.jpg)
+
